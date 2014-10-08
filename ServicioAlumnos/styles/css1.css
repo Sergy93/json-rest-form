@@ -1,0 +1,15 @@
+﻿table {
+    border-spacing: 0 10px;
+}
+
+td {
+    border: 1px solid black;
+}
+tr {
+    cursor: pointer;
+}
+
+    tr.seleccionado {
+        background-color: yellow;
+        border: 1px dotted;
+    }
